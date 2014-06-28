@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div class="well well-sm">${1:Small wells make me feel sorta swell.}</div>
+]]></content>
+	<tabTrigger>bs3-well:small</tabTrigger>
+</snippet>
